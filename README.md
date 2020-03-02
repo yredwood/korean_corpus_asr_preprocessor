@@ -1,7 +1,6 @@
 python preprocess.py
 python labeler.py
 
-
 ## labeler howto ##
 s: saving
 j: go up
